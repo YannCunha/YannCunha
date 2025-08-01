@@ -1,5 +1,11 @@
 <h1 align="center">Olá Mundo! Eu sou Yann Cunha</h1>
 
+<div align="center">
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/cf5c9c5c-9965-434e-9eb4-12227de59bdc" />
+</div>
+
+***
+
 - 🧑🏾‍💻 Sou estudante de Ciencias da Computação na UEPB
 - 📖 Estou no 3° periodo
 - 👨🏾‍🦱 Tenho 22 anos
